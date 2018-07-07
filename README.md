@@ -1,7 +1,6 @@
 # leninelio
 Desarrollando mi página web
 
-
 ==================================================================================================
 
 CEEVEE is a clean, modern, fully responsive site template for your
