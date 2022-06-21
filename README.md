@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Universidad Santiago Antúnez de Mayolo
+- 🌱 I’m currently learning JavaScript, Python.
+
+
 <!--
 **LeninElio/leninelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
