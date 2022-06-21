@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Universidad Santiago Antúnez de Mayolo
 - 🌱 I’m currently learning JavaScript, Python.
-
+- 🤔 I’m looking for help with Data Science
 
 <!--
 **LeninElio/leninelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
