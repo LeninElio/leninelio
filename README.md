@@ -3,17 +3,16 @@
 ### Hi! I'm Lenin 👋
 
 - 🔭 I’m currently working on Universidad Santiago Antúnez de Mayolo
-- 🌱 I’m currently learning JavaScript, Python.
 - 🤔 I’m looking for help with Data Science
 
-<!-- ### 🌱 My Contributions So Far!
-![github stats](https://github-readme-stats.vercel.app/api?username=leninelio&show_icons=true)
- -->
-
 ### My Skills ⚡
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,mysql,idea,linux,git,nginx,gcp,aws)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,mysql,linux,git)]()
 
 <!-- iconos obtenidos de: https://github.com/tandpfun/skill-icons#readme -->
+
+### I’m currently learning ✨
+[![My Skills](https://skillicons.dev/icons?i=selenium,docker,nginx,gcp,sqlite)]()
+
 
 ### Get In Touch! 📮
 - Contact me through Email, Twitter, Instagram
@@ -32,3 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🌱 My Contributions So Far!
+![github stats](https://github-readme-stats.vercel.app/api?username=leninelio&show_icons=true)
+ 
