@@ -32,5 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🌱 My Contributions So Far!
-![github stats](https://github-readme-stats.vercel.app/api?username=leninelio&show_icons=true)
- 
+![github stats](https://github-readme-stats.vercel.app/api?username=leninelio&show_icons=true&theme=onedark)
+
+<!-- ### 🌱 Beta!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leninelio&layout=compact)](https://github.com/leninelio/code_challenges_resolved) -->
