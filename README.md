@@ -3,18 +3,18 @@
 ### Hi! I'm Lenin 👋
 
 - 🔭 I’m currently working on Universidad Santiago Antúnez de Mayolo
-- 🤔 I’m looking for help with Data Science
+- 👯 I’m looking for help with Data Science
 
-### My Skills ⚡
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,mysql,linux,git)]()
+### 🛠 My Skills ⚡
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,mysql,linux,git)](https://www.github.com/leninelio)
 
 <!-- iconos obtenidos de: https://github.com/tandpfun/skill-icons#readme -->
 
-### I’m currently learning ✨
-[![My Skills](https://skillicons.dev/icons?i=selenium,docker,nginx,gcp,sqlite)]()
+### 🤔 I’m currently learning ✨
+[![My Skills](https://skillicons.dev/icons?i=selenium,docker,nginx,gcp,sqlite,aws)]()
 
 
-### Get In Touch! 📮
+### 📫 Get In Touch! 📮
 - Contact me through Email, Twitter, Instagram
 
 <!--
